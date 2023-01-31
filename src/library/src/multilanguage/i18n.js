@@ -1,7 +1,7 @@
 // import * as RNLocalize from 'react-native-localize' 
 
-import i18next from 'i18next'; 
-import { DEFAULT_LANGUAGE } from '../common/constants' 
+import i18next from 'i18next';
+import { DEFAULT_LANGUAGE } from '../common/constant';
 
 // import { isDevelopment } from '../common/operations' ; 
 const isDevelopment = () => { return true; }
